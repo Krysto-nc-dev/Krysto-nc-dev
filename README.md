@@ -12,7 +12,7 @@
  
  🔭 Nous travaillons actuellement sur **une nouvelle solution de recyclage innovante**
  
-⚡ Fun fact **⚡ Fun fact : Nous avalons chaque semaine l'équivalent d'une carte bancaire en plastique, soit environ 5 grammes.**
+⚡ Fun fact ⚡ **Nous avalons chaque semaine l'équivalent d'une carte bancaire en plastique, soit environ 5 grammes.**
 
 </div>
  
