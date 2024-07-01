@@ -12,7 +12,7 @@
  
  🔭 Nous travaillons actuellement sur **une nouvelle solution de recyclage innovante**
  
-⚡ Fun fact **Saviez-vous que la Nouvelle-Calédonie est l'un des rares territoires insulaires à avoir mis en place un système de recyclage du plastique complet et autonome ? Grâce aux initiatives locales, comme celle de Krysto, les plastiques recyclés sur l'île sont transformés en produits utiles tels que des meubles, des accessoires et même des matériaux de construction, contribuant ainsi à la réduction des déchets plastiques dans l'océan Pacifique.**
+⚡ Fun fact **⚡ Fun fact : Nous avalons chaque semaine l'équivalent d'une carte bancaire en plastique, soit environ 5 grammes.**
 
 </div>
  
