@@ -12,18 +12,19 @@
  
  🔭 Nous travaillons actuellement sur **une nouvelle solution de recyclage innovante**
  
- 🌱 Nous apprenons actuellement **Docker, Supabase, AWS**
 
-💬 Demandez-nous à propos de **Node.js, React, Firebase... ou toute autre question [ici](https://github.com/Krysto-nc-dev/Krysto-nc-dev/issues)**
+
+<!-- 💬 Demandez-nous à propos de **Node.js, React, Firebase... ou toute autre question [ici](https://github.com/Krysto-nc-dev/Krysto-nc-dev/issues)** -->
 
 ⚡ Fun fact **Saviez-vous que la Nouvelle-Calédonie est l'un des rares territoires insulaires à avoir mis en place un système de recyclage du plastique complet et autonome ? Grâce aux initiatives locales, comme celle de Krysto, les plastiques recyclés sur l'île sont transformés en produits utiles tels que des meubles, des accessoires et même des matériaux de construction, contribuant ainsi à la réduction des déchets plastiques dans l'océan Pacifique.**
 
 </div>
  
 <div align="center"> 
-  <a href="mailto:krysto.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+<a href="mailto:krysto.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email Badge"/>
+</a>
+
   <a href="https://linkedin.com/in/krysto-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -37,8 +38,8 @@
 <h2 align="center">⚒️ Langages-Frameworks-Outils ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,sass,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,nextjs,mysql,mongodb" /><br>
 </div>
 
 <br/>
@@ -67,10 +68,6 @@
 
 <hr/>
 
-<br/>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
 <br/>
