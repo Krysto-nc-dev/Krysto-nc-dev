@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Krysto-nc-dev.Krysto-nc-dev" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bienvenue!+👋;+Nous+sommes+Krysto!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bienvenue!+👋;+Je+suis+Stoyann!;" />
 </h1>
 
-<h3 align="center">Entreprise innovante dans le recyclage et les solutions web en Nouvelle-Calédonie 🇳🇨</h3>
+<h3 align="center">Développeur web 🇳🇨</h3>
 
 <br/>
 
