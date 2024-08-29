@@ -10,10 +10,9 @@
 
 <div align="center">
  
- 🔭 Nous travaillons actuellement sur **une nouvelle solution de recyclage innovante**
- 
-⚡ Fun fact ⚡ **Nous avalons chaque semaine l'équivalent d'une carte bancaire en plastique, soit environ 5 grammes.**
+🔭 Actuellement, je m'investis dans l'intégration de l'intelligence artificielle dans le développement web et l'analyse de données pour créer des solutions toujours plus performantes.
 
+⚡ Curiosité : L'IA est une révolution technologique fascinante, et je suis passionné par l'exploration de ses applications pour transformer les projets sur lesquels je travaille en outils intelligents et innovants.
 </div>
  
 <div align="center"> 
