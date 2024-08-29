@@ -21,15 +21,13 @@
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email Badge"/>
 </a>
 
-  <a href="https://nc.linkedin.com/company/krysto-nc" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+
 
   <a href="https://www.facebook.com/Krysto.noumea" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
 </a>
 
-  <a href="https://krysto-nc.github.io" target="_blank">
+  <a href="https://portfolio-velten-stoyann.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
